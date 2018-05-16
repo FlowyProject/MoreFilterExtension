@@ -9,5 +9,6 @@
     "flowy/standard": "dev-master#3c155dc3254e89d8980be91c4e3792b380199440"
   },
   "autoload": {
+    "files": ["./register.php"]
   }
 }

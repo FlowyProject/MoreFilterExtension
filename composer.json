@@ -1,0 +1,13 @@
+{
+  "name": "flowy/more-filter",
+  "description": "More filter method Extension",
+  "license": "LGPL-2.1",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.2.0",
+    "php-64bit": "*",
+    "flowy/standard": "dev-master#3c155dc3254e89d8980be91c4e3792b380199440"
+  },
+  "autoload": {
+  }
+}
